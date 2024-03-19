@@ -26,7 +26,7 @@ Pastikan Anda telah mengatur konfigurasi WebDriver sesuai dengan browser yang in
 - Klik tombol "Play" untuk menjalankan skenario pengujian tersebut.
 
 5. **Lihat Hasil Pengujian**
-Setelah pengujian selesai, Anda dapat melihat hasilnya di laporan pengujian yang dihasilkan, biasanya berada di direktori `build/reports/tests`.
+Setelah pengujian selesai, Anda dapat melihat hasilnya di laporan pengujian yang dihasilkan, biasanya berada di direktori `reports/`.
 
 ## Catatan
 - Pastikan untuk mengonfigurasi URL atau endpoint yang sesuai dengan aplikasi yang ingin diuji.

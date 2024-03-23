@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'org.aditya'
+group 'org.habibi'
 version '1.0-SNAPSHOT'
 
 repositories {
@@ -42,8 +42,7 @@ task cucumber() {
             args = [
                     '--plugin', 'html:reports/index.html',
                     '--plugin', 'pretty',
-                    '--glue', 'com.aditya',
-                    '--tags', "${tags}",
+                    '--glue', 'web.test.stepdef',
                     'src/test/resources'
             ]
         }

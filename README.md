@@ -10,7 +10,7 @@ Berikut adalah langkah-langkah untuk menjalankan proyek:
 Pastikan Anda telah memasang perangkat lunak berikut sebelum menjalankan proyek:
 - Java Development Kit (JDK)
 - Gradle
-- Browser (disarankan Chrome)
+- Browser (Edge)
 
 ### Langkah-langkah
 1. **Clone Repositori**
